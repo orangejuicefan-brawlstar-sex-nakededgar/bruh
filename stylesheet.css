@@ -1,8 +1,10 @@
 *{
     margin:0px;
-    font-family: sans-serif;
+    height:100%;
+    font-family:sans-serif;
 }
 
-#img1{
-    width:100%;
+body{
+    background:url('torchymoment.png') no-repeat center;
+    background-size:contain;
 }
